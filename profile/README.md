@@ -1,12 +1,12 @@
-## Hi there 👋
+<h1 align="center">Movidos a Gambiarra</h1>
+<p align="center">Esta organização foi criada para as diciplinas de Construção de Software e Projeto Integrador 2, do Instituto Federal do Paraná - Terceiro ano da Engenharia de software 2024</p>
 
-<!--
+<h1 align="left">Equipe:</h1>
+<p align="left">Gustavo Polli         - Product Owner</p>
+<p align="left">Mauricio Shiguemoto   - Scrum Master</p>
+<p align="left">Gustavo Marangoni     - Desenvolvimento</p>
+<p align="left">William Carvalho      - Desenvolvimento</p>
+<p align="left">Eduardo Germano       - Desenvolvimento</p>
+<p align="left">Renan Luiz Gondo      - Desenvolvimento</p>
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
