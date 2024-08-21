@@ -4,9 +4,9 @@
 <h1 align="left">Equipe:</h1>
 
 <p align="left">Mauricio Shiguemoto   - Product Owner</p>
-<p align="left">Gustavo Pollio       - Scrum Master</p>
+<p align="left">Gustavo Polli       - Scrum Master</p>
 <p align="left">Gustavo Marangoni     - Desenvolvedor</p>
 <p align="left">William Carvalho      - Desenvolvedor</p>
 <p align="left">Renan Luiz Gondo      - Desenvolvedor</p>
-<p align="left">Eduardo German         - Desenvolvedor</p>
+<p align="left">Eduardo Germano         - Desenvolvedor</p>
 
